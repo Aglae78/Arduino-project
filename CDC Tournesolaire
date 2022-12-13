@@ -1,10 +1,10 @@
 Matériel utilisé :
-- Un panneau solaire
+- Un à deux panneaux solaires (légers)
 - Un convertisseur BOOST (2.5V à 5V) adapté à l'USB
 - Une batterie
 - Pile ou générateur 5V
 - Une carte Arduino Nano
 - Un panneau d'affichage lumineux
-- Un support rotatif : une structure en bois et deux moteur servos (haut-bas et droite-gauche)
+- Un support rotatif : une structure et deux moteur servos (haut-bas et droite-gauche)
 - Résistance photo ou capteur LDR (4)
 (- Un port USB pour charger appareil électronique)
