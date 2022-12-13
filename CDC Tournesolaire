@@ -5,6 +5,6 @@ Matériel utilisé :
 - Pile ou générateur 5V
 - Une carte Arduino Nano
 - Un panneau d'affichage lumineux
-- Un support rotatif : une structure en bois et un moteur servos
-- Résistance photo
+- Un support rotatif : une structure en bois et deux moteur servos (haut-bas et droite-gauche)
+- Résistance photo ou capteur LDR (4)
 (- Un port USB pour charger appareil électronique)
